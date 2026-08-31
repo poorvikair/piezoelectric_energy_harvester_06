@@ -20,7 +20,7 @@ This project demonstrates how piezoelectric sensors can be used to harvest energ
 
 ## Project Setup
 
-![Piezoelectric Energy Harvester System](https://github.com/poorvikair/piezoelectric_energy_harvester_06/assets/image.jpg)
+!Piezoelectric Energy Harvester[(https://github.com/poorvikair/piezoelectric_energy_harvester_06/blob/main/piezoelectric_photo_1.jpeg)]
 
 *The complete piezoelectric energy harvester system with 4-sensor array, Arduino controller, and I2C LCD display*
 
