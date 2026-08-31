@@ -1,4 +1,4 @@
-# Piezoelectric Energy Harvester 🔋⚡
+# Piezoelectric Energy Harvester 
 
 A footstep energy harvesting system that converts mechanical vibrations from footsteps into electrical energy using piezoelectric sensors. The system detects steps in real-time, counts them, and displays estimated energy generation on an LCD display.
 
@@ -10,7 +10,7 @@ This project demonstrates how piezoelectric sensors can be used to harvest energ
 
 ## Features
 
-✨ **Core Functionality:**
+**Core Functionality:**
 - Real-time footstep detection and counting
 - Automatic debouncing to avoid false counts (300ms threshold)
 - Energy estimation in millijoules (mJ)
@@ -158,12 +158,12 @@ float energyMj = footfallCount * 0.1; // Change 0.1 to your calibrated value
 
 ## Future Enhancements
 
-- 📊 **Data Logging**: Save step data to SD card for analysis
-- 🔋 **Battery Monitoring**: Track stored energy in a capacitor/battery
-- 📡 **Wireless Transmission**: Send data via Bluetooth/WiFi
-- 🌡️ **Temperature Compensation**: Adjust for environmental factors
-- 📈 **Multi-Sensor Array**: Increase sensor count for better accuracy
-- 🎯 **Machine Learning**: Differentiate between walking patterns
+- **Data Logging**: Save step data to SD card for analysis
+- **Battery Monitoring**: Track stored energy in a capacitor/battery
+- **Wireless Transmission**: Send data via Bluetoot /WiFi
+- **Temperature Compensation**: Adjust for environmental factors
+- **Multi-Sensor Array**: Increase sensor count for better accuracy
+- **Machine Learning**: Differentiate between walking patterns
 
 ## Troubleshooting
 
@@ -222,6 +222,6 @@ This project is open source and available for educational and research purposes.
 
 **Last Updated**: August 2026
 
-**Status**: ✅ Active & Functional
+**Status**: Active & Functional
 
 Feel free to fork, modify, and contribute to this project!
