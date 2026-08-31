@@ -18,6 +18,12 @@ This project demonstrates how piezoelectric sensors can be used to harvest energ
 - Serial monitor output with detailed step information
 - Adjustable sensitivity for different environments
 
+## Project Setup
+
+![Piezoelectric Energy Harvester System](https://github.com/poorvikair/piezoelectric_energy_harvester_06/assets/image.jpg)
+
+*The complete piezoelectric energy harvester system with 4-sensor array, Arduino controller, and I2C LCD display*
+
 ## Hardware Components
 
 ### Components Used:
@@ -181,13 +187,14 @@ float energyMj = footfallCount * 0.1; // Change 0.1 to your calibrated value
 - Ensure even pressure distribution across sensors
 - Check sensor wiring for loose connections
 
-## Project Photos
+## System Components
 
 The system consists of:
-- **Wooden Platform**: Cork/wood base mounting the 4 piezoelectric sensors
-- **Sensor Array**: 2x2 arrangement with color-coded wiring
-- **Arduino & Breadboard**: Central electronics for signal processing
-- **LCD Display**: Real-time data output module
+- **Wooden Platform**: Cork/wood base mounting the 4 piezoelectric sensors arranged in a 2x2 grid pattern
+- **Sensor Array**: Four piezoelectric transducers with color-coded wiring (red, green, blue) connected in parallel
+- **Arduino & Breadboard**: Central processing unit with breadboard for prototyping connections and signal conditioning
+- **I2C LCD Display**: 16x2 character display showing real-time step count and energy harvested
+- **Wiring Harness**: Color-coded jumper wires connecting all components for easy troubleshooting and modifications
 
 ## Technical Specifications
 
